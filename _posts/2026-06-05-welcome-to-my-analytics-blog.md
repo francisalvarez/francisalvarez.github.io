@@ -3,15 +3,15 @@
 title: "Understanding Logistic Regression in Program Evaluation"
 date: 2026-06-05
 categories:
-
 - Analytics
-  tags:
+
+tags:
 - Statistics
 - Logistic Regression
 - Program Evaluation
 - Data Science
-  layout: single
-  author_profile: true
+layout: single
+author_profile: true
 
 ---
 
