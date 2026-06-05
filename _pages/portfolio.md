@@ -156,4 +156,3 @@ Download my latest resume or connect with me through LinkedIn.
 
 * LinkedIn: [Your LinkedIn URL]
 * GitHub: [Your GitHub URL]
-
