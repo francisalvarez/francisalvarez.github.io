@@ -27,16 +27,19 @@ I was contracted in November 2021 Independent Options to produce these two video
 </iframe>
 
 ### Project Description
+A property vlog of the Brave & Maiden Estate during my trip to the Santa Ynez Valley in July 2024.
 
-Briefly describe the video here.
+## Bozeman, Montana
 
-You can include:
+<iframe 
+  src="https://drive.google.com/file/d/1eD1IttqDjN4ob54hLTqIWU5WLN1WKCf_/preview" 
+  width="100%" 
+  height="480" 
+  allow="autoplay">
+</iframe>
 
-- The purpose of the video
-- Your role in filming or editing
-- Tools used
-- What you learned
-- Any client, school, or personal context
+### Project Description
+A vlog of my trip to Bozeman, Montana to visit friends in May 2023.
 
 ## Nike Pegasus 40 Shoes
 
@@ -59,3 +62,7 @@ I was exited about my latest pair of running shoes and wanted example product co
   height="480" 
   allow="autoplay">
 </iframe>
+
+### Project Description
+
+A hobby project of me playing around to record indoor locations for a room tour. This was practice content for me to produce media for Yoga6 and F45 studios.
