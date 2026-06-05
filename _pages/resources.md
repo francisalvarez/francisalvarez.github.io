@@ -1,3 +1,10 @@
+---
+title: "Resources"
+permalink: /resources/
+layout: single
+author_profile: true
+---
+
 # Resources
 
-Reading List
+Reading list and notes coming soon.
