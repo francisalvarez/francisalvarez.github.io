@@ -16,7 +16,7 @@ author:
   name: "Francis Alvarez"
   avatar: "/assets/images/francis-profile.jpg"
   bio: "Research and data analyst focused on program evaluation, survey research, and data storytelling."
-  location: "Vista, California"
+  location: "Oceanside, California"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -26,7 +26,7 @@ author:
       url: "https://github.com/francisalvarez"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"
+      url: "https://www.linkedin.com/in/francisalvarez"
 
 defaults:
   - scope:
