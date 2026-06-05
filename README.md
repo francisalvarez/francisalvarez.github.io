@@ -125,6 +125,15 @@ Topics may include:
 
 ## Personal Interests
 
+### Videography
+Ever since I was a teenager I've always enjoyed recording content. Growing up I've been fortunate to always have some sort of device to capture moments in my life in order so I can revisit those enjoy those past experiences. I started with a Nikon D3300 and caught the action camera bug and have played with multiple iterations of GoPro cameras. Currently, I'm enjoying my FujiFilm XT4, which has allowed me to capture all adult travel and as a side hobby edit/record shortform content for friends.
+
+There are few things that drew me to videography. It was always fun to have documented experiences that I could review later in life. It was an enjoyable challenge to learn editing software, starting with iMovie to Final Cut Pro X to Davinci Resolve. Learning video software challenged my creativity and forced me to use a different technical side of my brain. Lastly, editing videos felt theraputic and relaxing, almost as if building a visual puzzle to tell a visual story that syncs with whatever soundtrack I was into at the time.
+
+<tk add link to videos here>
+
+### Soccer and Fitness
+
 Outside of analytics, I enjoy learning practical skills, cooking, strength training, and exploring ways to make everyday routines more intentional and efficient.
 
 I am also interested in personal finance, long-term saving, and tools that help people make better decisions over time.
