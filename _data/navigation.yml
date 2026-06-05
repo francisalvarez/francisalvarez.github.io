@@ -1,6 +1,8 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Videography"
+    url: /videography/
   - title: "Blog"
     url: /posts/
   - title: "Resources"
