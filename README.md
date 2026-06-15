@@ -1,4 +1,4 @@
-Hello and welcome to my website. This site highlights my professional experience in analytics, showcases work that I've produced in program evaluation, and shares a glimpse into who I am outside of work.
+Hello and welcome to my website. This site highlights my professional experience in data analytics, showcases work that I've produced in program evaluation, and shares a glimpse into who I am outside of work.
 
 To learn more, please visit the following sections:
 

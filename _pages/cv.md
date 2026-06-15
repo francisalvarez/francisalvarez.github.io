@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-[Download Resume](/assets/files/resume.pdf)
+[Download Resume](/assets/files/20260601 - Resume.pdf)
 *Updated: 6/15/2026*
 
 ## Contact Information
