@@ -16,7 +16,7 @@ author_profile: true
 
 ## Experience
 
-**Center for Sustainable Energy**
+**Center for Sustainable Energy**  
 ***Managing Research Analyst***
 
 *March 2025 – Present*
@@ -26,7 +26,7 @@ author_profile: true
 * Managed and mentored a team of three junior analysts, overseeing analytical quality, project execution, and professional development.
 * Produced a logistic regression analysis to describe which sociodemographic features best predict reliance on statewide incentives to purchase electric vehicles.
 
-**Center for Sustainable Energy**
+**Center for Sustainable Energy**  
 ***Senior Research Analyst***
 
 *February 2023 – March 2025*
@@ -36,7 +36,7 @@ author_profile: true
 * Led client meetings, coordinated team efforts, and ensured projects were delivered on time and within budget.
 * Developed forecasting models of California's electric pickup truck market to estimate program participation and quantify the multimillion-dollar financial impact of proposed incentive structures, informing statewide program planning and policy decisions.
 
-**Center for Sustainable Energy**
+**Center for Sustainable Energy**  
 ***Research Analyst***
 
 *July 2020 – February 2023*
@@ -45,7 +45,7 @@ author_profile: true
 * Co-authored a whitepaper analyzing trends between the CVRP program and statewide new vehicle registration data to inform policy and program design.
 * Developed and maintained public-facing dashboards tracking statewide EV rebate participation and survey outcomes, providing stakeholders with program performance metrics.
 
-**Wondersign**
+**Wondersign**  
 ***Data Analyst***
 
 *April 2019 – July 2020*
@@ -55,8 +55,6 @@ author_profile: true
 * Designed a Google Data Studio dashboard to track data quality trends across partner furniture brands to enforce data consistency standards from clients.
 
 
----
-
 ## Education
 **San Diego State University**
 - Master of Science in Applied Mathematics, 2018
@@ -64,8 +62,6 @@ author_profile: true
 **University of California, San Diego**
 - Bachelor of Science in Applied Mathematics, 2014
 
-
----
 
 ## Skills
 **Programming & Analytics**: Python, SQL, R, MATLAB
