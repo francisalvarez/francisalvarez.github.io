@@ -16,8 +16,6 @@ author_profile: true
 
 ## Experience
 
-## Experience
-
 **Center for Sustainable Energy**
 ***Managing Research Analyst***
 
