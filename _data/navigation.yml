@@ -1,13 +1,11 @@
 main:
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Videography"
-    url: /videography/
-  - title: "Blog"
-    url: /posts/
-  - title: "Resources"
-    url: /resources/
-  - title: "CV"
-    url: /cv/
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resources"
+    url: /resources/
+  - title: "Videography"
+    url: /videography/
