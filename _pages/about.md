@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# About
-
 I’m Francis Alvarez, a data analyst with experience in program evaluation consulting.
 
 ## Career Objectives
