@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 ---
 
-[Download Resume](/assets/files/20260601 - Resume.pdf)
+[Download Resume](/assets/files/20260601 - Resume.pdf)  
 *Updated: 6/15/2026*
 
 ## Contact Information
-- Email: [your.email@example.com](mailto:aalvarez.fr@gmail.com)
-- LinkedIn: https://github.com/francisalvarez
+- Email: [aalvarez.fr@gmail.com](mailto:aalvarez.fr@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/francisalvarez/](https://www.linkedin.com/in/francisalvarez/)
 
 ---
 
