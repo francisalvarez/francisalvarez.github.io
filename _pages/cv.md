@@ -3,7 +3,7 @@ title: "CV"
 permalink: /cv/
 layout: single
 author_profile: true
---------------------
+---
 
 [Download Resume](/assets/files/resume.pdf)
 *Updated: 6/15/2026*
