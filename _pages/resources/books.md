@@ -11,24 +11,24 @@ toc_label: "Table of Contents"
 
 Books I recommend or plan to read across analytics, research, communication, and personal development.
 
-## Analytics & Statistics
-
-- *An Introduction to Statistical Learning*
-- *Naked Statistics*
-- *The Signal and the Noise*
-
 ## Data Visualization
+- *Storytelling with Data* by Cole et al
 
-- *Storytelling with Data*
-- *The Visual Display of Quantitative Information*
+## Motivational
+- *Can't Hurt Me* by David Goggins
+- *Endure* by Alex Hutchinson
+- *What I Talk About When I Talk About Running* by Haruki Murakami
 
-## Research & Decision-Making
+## Organization
+- *Getting Things Done* by David Allen
+- *The PARA Method: Simplify, Organise and Master Your Digital Life* by Tiago Forte
 
-- *Thinking, Fast and Slow*
-- *Nudge*
-- *Superforecasting*
+## Professional Development
+- *The 7 Habits of Highly Effective People* by Stephen Covey
+- *The Art of Gathering* by Priya Parker
+- *Working Smarter with Microsoft Outlook: Supercharge your office and personal productivity with expert Outlook tips and techniques* by Staci Warne
 
-## Personal Finance
+# To Read
 
-- *The Psychology of Money*
-- *The Simple Path to Wealth*
+## Analytics & Statistics
+- *The Signal and the Noise* by Nate Silver
