@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Resources
-
 A collection of tools, books, articles, and references I use to learn about data analytics, program evaluation, research methods, and personal development.
 
 ## Books
