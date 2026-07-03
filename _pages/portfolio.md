@@ -15,6 +15,8 @@ A collection of analytics, program evaluation, and research projects focused on 
 - [Download presentation slides](/assets/files/CVRP epickup - Q1 2023.pdf)
 - [Alternative slides link](https://cleanvehiclerebate.org/sites/default/files/attachments/CVRP-electric-pickups-thru-2023-Q1_0.pdf)
 
+Led the analysis for the electric pickup projections section of the CVRP presentation, including processing S&P Global Mobility vehicle registration data, filtering California retail and fleet pickup records, and developing visualizations of historical pickup and electric pickup sales trends. Built projection scenarios to estimate California’s pathway toward 100% electric pickup sales by 2035 and translated those adoption scenarios into illustrative CVRP rebate demand estimates.
+
 ## CVRP Projections
 <!-- Add various slides and links -->
 
@@ -25,6 +27,8 @@ A collection of analytics, program evaluation, and research projects focused on 
 ### July 6, 2022
 - [Download presentation slides](/assets/files/202206 - CVRP Projections Slides.pdf)
 - [Alternative slides link](https://cleanvehiclerebate.org/sites/default/files/attachments/July_2022_CVRP_Scenario_Projections.pdf)
+
+Led recurring CVRP projection analyses, using rebate and application data to forecast program participation, estimate future expenditures, and assess funding needs under evolving demand, eligibility, and incentive-design scenarios.
 
 ## EVS36 - Home Charging Accessibility Trends within the Clean Vehicle Rebate Project
 - [Download paper](/assets/files/EVS36 - Home Charging Trends.pdf)
