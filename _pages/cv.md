@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 ---
 
-[Download Resume](/assets/files/20260601 - Resume.pdf)  
-*Updated: 6/15/2026*
+[Download Resume](/assets/files/20260703 - Resume.pdf)  
+*Updated: 7/3/2026*
 
 ## Contact Information
 - Email: [aalvarez.fr@gmail.com](mailto:aalvarez.fr@gmail.com)
