@@ -10,13 +10,13 @@ A collection of analytics, program evaluation, and research projects focused on 
 ---
 
 ## CVRP e-Pickups
-<add multiple versions>
+_Add multiple versions._
 
 - [Download presentation slides](/assets/files/CVRP epickup - Q1 2023.pdf)
 - [Alternative slides link](https://cleanvehiclerebate.org/sites/default/files/attachments/CVRP-electric-pickups-thru-2023-Q1_0.pdf)
 
 ## CVRP Projections
-<add various slides and links>
+_Add various slides and links._
 
 ### May 24, 2023
 - [Download presentation slides](/assets/files/202305 - CVRP Projections Slides.pdf)
@@ -42,14 +42,14 @@ Using Clean Vehicle Rebate Project survey data, this analysis evaluated how acce
 
 Using 2017–2020 Clean Vehicle Rebate Project survey and application data, this analysis identified six distinct EV consumer groups through latent class analysis. The report provided a more nuanced view of California EV adopters and offered insights for tailoring outreach, education, and incentive strategies to different consumer segments.
 
-## Lousiana NEVI Plans
-- [Download paper](assets/files/louisiana-nevi-plan-update-2024.pdf)
+## Lousiana NEVI Plan
+- [Download paper](/assets/files/louisiana-nevi-plan-update-2024.pdf)
 - [Alternative report link](https://dotd.la.gov/media/iuqbyrzn/louisiana-nevi-plan-update-2024.pdf)
 
 Supported the Louisiana NEVI Plan update as the project’s research lead, helping coordinate client communication, internal workflows, project hours, and budget tracking. My technical contribution included developing Figure 6 for the final report, while the broader corridor planning analysis was completed by my host organization.
 
 ## CVRP EV Consumer Survey Dashboard
-- [Dashboard - impacts tab](assets/files/CVRP Rebate Survey Dashboard - Impacts.pdf)
+- [Dashboard - impacts tab](/assets/files/CVRP Rebate Survey Dashboard - Impacts.pdf)
 - [Dashboard - demographics tab](/assets/files/CVRP Rebate Survey Dashboard - Demographics.pdf)
 - [Dashboard direct link](https://cleanvehiclerebate.org/en/rebate-survey-dashboard)
 
