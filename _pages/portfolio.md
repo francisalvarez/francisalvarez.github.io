@@ -10,13 +10,13 @@ A collection of analytics, program evaluation, and research projects focused on 
 ---
 
 ## CVRP e-Pickups
-_Add multiple versions._
+<!-- Add multiple versions -->
 
 - [Download presentation slides](/assets/files/CVRP epickup - Q1 2023.pdf)
 - [Alternative slides link](https://cleanvehiclerebate.org/sites/default/files/attachments/CVRP-electric-pickups-thru-2023-Q1_0.pdf)
 
 ## CVRP Projections
-_Add various slides and links._
+<!-- Add various slides and links -->
 
 ### May 24, 2023
 - [Download presentation slides](/assets/files/202305 - CVRP Projections Slides.pdf)
